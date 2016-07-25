@@ -3,5 +3,3 @@
 """ init """
 
 __author__ = 'snowingsea<snowingsea@gmail.com>'
-
-__all__ = ['parsehandler']
